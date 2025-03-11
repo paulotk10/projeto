@@ -1,0 +1,1 @@
+Descrição: O COBIT é um framework que se concentra na governança e na gestão de TI. Ele fornece um conjunto de controles e objetivos para garantir que as tecnologias da informação e os processos de governança estejam alinhados com os objetivos empresariais
